@@ -1,4 +1,4 @@
-# Health-Insurance-Cross-Sell-Prediction
+# Health Insurance Cross Sell Prediction
 
 ### Introduction
 A health insurance company intends to improve its revenue by cross selling vehicle insurance. To discover the potential value of this business, the corporate collected data including customers’ information and their responses to the new service. This project moves the evaluation of business into analysis level. It aims to conduct Exploratory Data Analysis, build several models, train them with existing data, and select the one with optimal performance. The model will detect healthcare members who are more likely to register for vehicle insurance, which could help company focus more on potential clients.
